@@ -1,0 +1,4 @@
+{
+  "typescript.suggest.enabled": true,
+  "typescript.validate.enable": true,
+}
