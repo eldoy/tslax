@@ -1,5 +1,9 @@
 {
   "compilerOptions": {
-    "lib": ["es2020"]
+    "lib": ["es2020"],
+    "target": "es2020",
+    "module": "nodenext",
+    "noEmit": true,
+    "allowImportingTsExtensions": true
   }
 }
