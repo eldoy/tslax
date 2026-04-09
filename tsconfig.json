@@ -4,6 +4,7 @@
     "target": "es2020",
     "module": "nodenext",
     "noEmit": true,
-    "allowImportingTsExtensions": true
+    "allowImportingTsExtensions": true,
+    "verbatimModuleSyntax": true
   }
 }
