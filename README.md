@@ -25,4 +25,4 @@ NOTE: When using CJS, make sure your `module.exports` are wrapped in an object, 
 
 ### Acknowledgements
 
-Created by [Tekki](https://tekki.no)
+Created by [Vidar Eldøy](https://eldoy.com)
