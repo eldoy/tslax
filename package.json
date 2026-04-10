@@ -9,6 +9,9 @@
     "type": "git",
     "url": "git+https://github.com/eldoy/tstest.git"
   },
+  "imports": {
+    "#*": "./*"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
